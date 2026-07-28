@@ -4,7 +4,7 @@ Email Me 👉 ✉️ **jalandhrad688@gmail.com** For Collaboration/Project or An
 
 - 🌱 **I’m currently learning:** web developing
 - 💬 **Ask me about:** Collaboration, Tech Support 
-- 📫 **How to reach me:** Enter your email here jalandhrad688@gmail.com
+- 📫 **How to reach me:** jalandhrad688@gmail.com
 - 😄 **Pronouns:** deepak 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
