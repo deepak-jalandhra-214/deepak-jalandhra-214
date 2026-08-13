@@ -1,12 +1,27 @@
-# 💫 Hi 👋, I'm deepak
+# Hi 👋, I'm Deepak!
 
-Email Me 👉 ✉️ **jalandhrad688@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+🎓 **B.Tech CSE (AI & ML) Student at BFCET**
 
-- 🌱 **I’m currently learning:** web developing
-- 💬 **Ask me about:** Collaboration, Tech Support 
-- 📫 **How to reach me:** jalandhrad688@gmail.com
-- 😄 **Pronouns:** deepak 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+🌱 **Currently learning:** Web Development, AI & Machine Learning
+💻 **Interested in:** Web Development, AI/ML & Technology
+🚀 **Curious to learn more, build projects, and explore new technologies**
+
+💬 **Ask me about:** Collaboration, Tech Support & Web Development
+🤝 **Open to:** Projects, Collaboration & Learning Opportunities
+📫 **Email:** [jalandhrad688@gmail.com](mailto:jalandhrad688@gmail.com)
+
+⚡ **Fun fact:** I Love Tech, and Tech Loves Me! 😄
+
+### 🛠️ Skills & Technologies
+
+HTML • CSS • JavaScript • Git • GitHub
+
+### 🎯 Currently
+
+I'm currently pursuing **B.Tech in Computer Science & Engineering (AI & ML)** at **Baba Farid College of Engineering and Technology (BFCET)**.
+
+I'm continuously learning, experimenting with new technologies, and building projects to improve my development skills.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepak.jalanfhra_214) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-jalandhra214) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jalandhrad688) 
 <!-- Snake Game Repo View -->
