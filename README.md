@@ -3,11 +3,15 @@
 🎓 **B.Tech CSE (AI & ML) Student at BFCET**
 
 🌱 **Currently learning:** Web Development, AI & Machine Learning
+
 💻 **Interested in:** Web Development, AI/ML & Technology
+
 🚀 **Curious to learn more, build projects, and explore new technologies**
 
 💬 **Ask me about:** Collaboration, Tech Support & Web Development
+
 🤝 **Open to:** Projects, Collaboration & Learning Opportunities
+
 📫 **Email:** [jalandhrad688@gmail.com](mailto:jalandhrad688@gmail.com)
 
 ⚡ **Fun fact:** I Love Tech, and Tech Loves Me! 😄
