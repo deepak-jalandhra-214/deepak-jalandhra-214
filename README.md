@@ -1,32 +1,30 @@
 # Hi 👋, I'm Deepak!
 
-🎓 **B.Tech CSE (AI & ML) Student at BFCET**
+**B.Tech CSE (AI & ML) Student at BFCET**
 
-🌱 **Currently learning:** Web Development, AI & Machine Learning
+ **Currently learning:** Web Development, AI & Machine Learning
 
-💻 **Interested in:** Web Development, AI/ML & Technology
+**Interested in:** Web Development, AI/ML & Technology
 
-🚀 **Curious to learn more, build projects, and explore new technologies**
+**Curious to learn more, build projects, and explore new technologies**
 
-💬 **Ask me about:** Collaboration, Tech Support & Web Development
+ **Ask me about:** Collaboration, Tech Support & Web Development
 
-🤝 **Open to:** Projects, Collaboration & Learning Opportunities
+ **Open to:** Projects, Collaboration & Learning Opportunities
 
-📫 **Email:** [jalandhrad688@gmail.com](mailto:jalandhrad688@gmail.com)
+ **Email:** [jalandhrad688@gmail.com](mailto:jalandhrad688@gmail.com)
 
-⚡ **Fun fact:** I Love Tech, and Tech Loves Me! 😄
-
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 HTML • CSS • JavaScript • Git • GitHub
 
-### 🎯 Currently
+###  Currently
 
 I'm currently pursuing **B.Tech in Computer Science & Engineering (AI & ML)** at **Baba Farid College of Engineering and Technology (BFCET)**.
 
 I'm continuously learning, experimenting with new technologies, and building projects to improve my development skills.
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepak.jalanfhra_214) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-jalandhra214) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jalandhrad688) 
 <!-- Snake Game Repo View -->
 
@@ -34,20 +32,20 @@ I'm continuously learning, experimenting with new technologies, and building pro
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=deepak-jalandhra-214&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=deepak-jalandhra-214&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepak-jalandhra-214&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deepak-jalandhra-214&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=deepak-jalandhra-214&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
