@@ -16,7 +16,7 @@
 
 ### Skills & Technologies
 
-HTML • CSS • JavaScript • Git • GitHub
+HTML • CSS • Python• Git • GitHub 
 
 ###  Currently
 
