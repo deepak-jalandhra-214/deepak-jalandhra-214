@@ -16,7 +16,7 @@
 
 ### Skills & Technologies
 
-HTML • CSS • Python• Git • GitHub 
+HTML • CSS • language: C , Python• Git • GitHub 
 
 ###  Currently
 
